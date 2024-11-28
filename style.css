@@ -209,6 +209,6 @@ min--> valor maior que Npx aplica o css do media
     justify-content: center;
 }
 .header a{
-    font-size: 20px;
+    display: none;
 }
 }
